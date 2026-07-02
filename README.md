@@ -1,2 +1,2 @@
 # metadata
- Service data for company applications
+Service data for company applications
