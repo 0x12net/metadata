@@ -1,0 +1,8 @@
+risk_level,part,description
+3,C19272707,"A0512S-2W fails in the field. Replace with a MORNSUN equivalent."
+2,A0512S-2W,"A0512S-2W(EVISUN) fails in the field."
+3,C713219,"B0505XT-1WR3S: assembly defects, transformer sometimes not soldered."
+3,B0505XT-1WR3S,"B0505XT-1WR3S: assembly defects, transformer sometimes not soldered."
+3,C1509083,"MS5351M (Hangzhou Ruimeng Tech): high defect rate."
+3,MS5351M,"MS5351M (Hangzhou Ruimeng Tech): high defect rate."
+1,ADUM3190,"Not recommended for new designs (NRND). Issues with nonlinearity and zero offset."
