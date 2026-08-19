@@ -6,3 +6,5 @@ risk_level,part,description
 3,C1509083,"MS5351M (Hangzhou Ruimeng Tech): high defect rate."
 3,MS5351M,"MS5351M (Hangzhou Ruimeng Tech): high defect rate."
 1,ADUM3190,"Not recommended for new designs (NRND). Issues with nonlinearity and zero offset."
+1,534062,"Capacitors are prone to failure."
+1,TS20001V330KDT000R,"Capacitors are prone to failure."
